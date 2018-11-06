@@ -12,6 +12,30 @@ Hi Team. Finished Running.  Left all the detail in the excel file.   A couple of
         - Sometimes they do not match   
 ```
 
+**---Updated--**
+
+```
+On 11/5/2018
+    1) Added an ***Oscar Winner*** Field. If the Movie was nominated at all, the value is "Winner!"  
+    2) This was based on a datafile from " https://datahub.io/rufuspollock/oscars-nominees-and-winners#data "  
+    3) The following categories were not included, since they are individual or studio:
+        - ACTOR IN A LEADING ROLE
+        - ACTOR IN A SUPPORTING ROLE
+        - ACTRESS IN A LEADING ROLE
+        - ACTRESS IN A SUPPORTING ROLE
+        - AWARD OF COMMENDATION
+        - HONORARY AWARD
+        - IRVING G. THALBERG MEMORIAL AWARD
+        - JEAN HERSHOLT HUMANITARIAN AWARD
+        - JOHN A. BONNER MEDAL OF COMMENDATION
+        - MEDAL OF COMMENDATION
+        - SCIENTIFIC AND TECHNICAL AWARD
+        
+        
+``` 
+
+
+
 **About the Code**
 ```
     1) Loops through each Title in tom's sheet.    
